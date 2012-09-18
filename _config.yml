@@ -1,5 +1,4 @@
-# Jekyll
-permalink: /:year/:title/
+permalink: /:title.html
 paginate: 10 
 exclude: 
 name: Jekyll Bootstrap
