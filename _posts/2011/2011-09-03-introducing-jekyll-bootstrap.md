@@ -1,40 +1,23 @@
 ---
 
-title: Introducing Jekyll Bootstrap
+title: El problema de la sudestada
 layout: default
 
 ---
 
-Jekyll bootstrap is a theme for jekyll which uses the [twitter bootstrap css framework](https://github.com/twitter/bootstrap).
-The advantage of jekyll is that it is self hosted (or hosted on github) and that you can write in markdown on a text editor and just git push new posts to a server which produces html files. The advantage of this theme is so that you can start blogging almost right away without having to worry about making a theme.
+La sudestada sigue dominando el clima de Capital y Gran Buenos Aires. Para esta noche se espera una nueva crecida del Río de la Plata, por lo que las autoridades pusieron en marcha operativos de prevención ante eventuales evacuaciones. La subida de las aguas ya generó anegamientos en Quilmes, Ensenada, Tigre y Vicente López, entre otros distritos. 
 
-###Setting up
-To start you own blog, simply `git clone` the [repository on github](https://github.com/nhoss2/jekyll-bootstrap). You could also press the "fork" button on github.
 
-	git clone git://github.com/nhoss2/jekyll-bootstrap.git
+Según alertó el Servicio de Hidrografía Naval, la nueva crecida se espera para esta noche y las primeras horas de la madrugada. De acuerdo a las previsiones, la altura del Río de la Plata podría llegar a los 2,90 metros en La Plata a las 20.30; tres metros a las 22.30 en la ciudad de Buenos Aires y 3,20 metros a las 23.30 en San Fernando y Tigre. 
 
-If you want to have your blog on github, make sure you change to the `gh-pages` branch.
 
-	git checkout gh-pages
+El Servicio Meteorológico, por su parte, amplió la vigencia de un alerta por "vientos intensos" para Capital y Gran Buenos Aires, Río de la Plata y otros tres distritos. "La profundización de un sistema de baja presión afectará el área de cobertura con vientos del sudeste, rotando progresivamente al sur", indicó el organismo, que prevé vientos que podrían superar los 85 kilómetros por hora.
 
-Then you will need to edit the `_config.yml` file at the root of repository.
 
-To add your own posts, add a file to the `_posts` directory which has the name `year-month-day-title.md`. Note - the file does not have to markdown.
+La crecida del Río de la Plata ya provocó anegamientos en Quilmes, Ensenada, Tigre y Vicente López, entre otros distritos. Todos los partidos ribereños pusieron en marcha operativos de prevención. Al respecto, el director de Defensa Civil de Berisso, Pablo Acosta, informó que en ese partido se puso en marcha una diagrama especial ante posibles evacuaciones. El operativo “está en marcha, ya tenemos las lanchas listas para salir y los bomberos preparados” para cualquier emergencia, afirmó.
 
-To publish the post, just `git push` it to your own github repo and your set!
 
-###Things to change on `_config.yml`
-There is a config file at the root called `_config.yml`. By Default it looks like:
+Los fuertes vientos afectan también a las zonas costeras del norte del Conurbano. En el partido de Tigre, unas 30 cuadras se encuentran anegadas por la crecida del río, confirmaron desde el Municipio. Por el momento no hay vecinos evacuados, pero los sistemas de emergencia se encuentran alertas. "Hay que esperar porque hay mucho viento, que es algo impredecible", explicó Diego Santillán, secretario de Protección Ciudadana de la Comuna, y aseguró que el Municipio está equipado con camiones y vehículos unimog para asistir a las personas que tienen sus calles inundadas, en el caso de que el río siga creciendo.
 
-	permalink: /:year/:title/
-	paginate: 10
-	exclude:
-	name: Jekyll Bootstrap
-	baseurl: /jekyll-bootstrap/
 
-You will need to change the `name` and `baseurl` fields. The others are optional.
-The `baseurl` field is used for the css files and pagination, if you are hosting the blog on github, you will need to change it to your repository name unless your repository is the same name as your github user name, which means you will need to have no value for `baseurl`.
-
-For more information on Jekyll, visit their [wiki on github](https://github.com/mojombo/jekyll/wiki).
-
-For more information on github pages: [http://pages.github.com](http://pages.github.com).
+Ante las fuertes ráfagas que se registran en toda la Ciudad, las autoridades viales porteñas pidieron hoy a los conductores aminorar la velocidad del vehículo tanto en las autopistas de acceso como en las avenidas de la Ciudad. Desde el SMN indicaron que "la velocidad del viento comenzará a disminuir a partir de la tarde o noche del miércoles con el alejamiento del sistema de baja presión".
