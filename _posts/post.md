@@ -1,8 +1,8 @@
 ---
 
-title: Title goes here
+title: Hola mundo
 layout: default
 
 ---
 
-content goes here
+Aqui estoy, viejo.
